@@ -1,4 +1,5 @@
-//Cálculo de área
+//Escreva um algoritmo para ler as dimensões de um triângulo (base e altura):
+
 import java.util.Scanner;
 public class Desafio02 {
    
